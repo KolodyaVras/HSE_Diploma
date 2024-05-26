@@ -1,0 +1,72 @@
+D:\Downloads\ES-master\ES-master\ЭС\bin\Debug\ЭС.exe.config
+D:\Downloads\ES-master\ES-master\ЭС\bin\Debug\ЭС.exe
+D:\Downloads\ES-master\ES-master\ЭС\bin\Debug\ЭС.pdb
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.csproj.AssemblyReference.cache
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.DragText.resources
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmAddDom.resources
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmAddReason.resources
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmAddRule.resources
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmAddVal.resources
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmAddVar.resources
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmDomains.resources
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmExplain.resources
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmGoal.resources
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmMain.resources
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmQuestion.resources
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmRules.resources
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmVariables.resources
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.Properties.Resources.resources
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.Resource1.resources
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.csproj.GenerateResource.cache
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.csproj.CoreCompileInputs.cache
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.exe
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.pdb
+D:\Downloads\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\bin\Debug\ЭС.exe.config
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\bin\Debug\ЭС.exe
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\bin\Debug\ЭС.pdb
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.csproj.AssemblyReference.cache
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.DragText.resources
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmAddDom.resources
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmAddReason.resources
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmAddRule.resources
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmAddVal.resources
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmAddVar.resources
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmDomains.resources
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmExplain.resources
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmGoal.resources
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmMain.resources
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmQuestion.resources
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmRules.resources
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.frmVariables.resources
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.Properties.Resources.resources
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.Resource1.resources
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.csproj.GenerateResource.cache
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.csproj.CoreCompileInputs.cache
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.exe
+D:\Учеба\для диплома\ES-master\ES-master\ЭС\obj\x86\Debug\ЭС.pdb
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\bin\Debug\ЭС.exe.config
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\bin\Debug\ЭС.exe
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\bin\Debug\ЭС.pdb
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.csproj.AssemblyReference.cache
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.DragText.resources
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.frmAddDom.resources
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.frmAddReason.resources
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.frmAddRule.resources
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.frmAddVal.resources
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.frmAddVar.resources
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.frmDomains.resources
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.frmExplain.resources
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.frmGoal.resources
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.frmMain.resources
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.frmQuestion.resources
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.frmRules.resources
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.frmVariables.resources
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.Properties.Resources.resources
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.Resource1.resources
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.csproj.GenerateResource.cache
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.csproj.CoreCompileInputs.cache
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.exe
+D:\Учеба\для диплома\Диплом\Оболочка ЭС\ЭС\obj\x86\Debug\ЭС.pdb
