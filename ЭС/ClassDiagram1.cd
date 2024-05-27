@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ЭС.Fact">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEIAAAAAQEAAAAAAAAACAAAAAgCBAAAAgQAAA=</HashCode>
+      <FileName>Fact.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ЭС.ExpertSystem">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAECsAAAAIAAAAAAIQACAAEAAAAAQAAQAAQAAAAEA=</HashCode>
+      <FileName>ExpertSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ЭС.DomainException">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyEcxeptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ЭС.RuleException">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyEcxeptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ЭС.VariableException">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyEcxeptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ЭС.OrderedDictionary&lt;TKey, TVal&gt;">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="ЭС.OrderedDictionary&lt;TKey, TVal&gt;.Iterator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>OrderedDictionary.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACIAAEAAAAAMABAACAAQBAQAEAAAAAAACAAAAABAABA=</HashCode>
+      <FileName>OrderedDictionary.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ЭС.Rule">
+    <Position X="11" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAEABAAAIAEAAAEBAgIBAQAAAAAAAAQAAAAAAAQAAA=</HashCode>
+      <FileName>Rule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ЭС.ValueDomain">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEAEAAAAAIAAQAAEAAAABAQACAAEAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueDomain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ЭС.Variable">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAMAAAAAAAAAAQEAAACAAQAAgQEAAAEAAAAAAAADAA=</HashCode>
+      <FileName>Variable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Enum Name="ЭС.RuleWork">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAACAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ЭС.Rightly">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ЭС.VarType">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAABAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
